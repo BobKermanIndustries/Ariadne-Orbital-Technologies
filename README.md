@@ -1,7 +1,7 @@
 # Ariadne Orbital Technologies
 KSP Ariane 6 and Vega rockets mod
 
-Installation instrustions:
+Installation instructions:
 1. Unzip zipped file
-2. Copy the AriadeOT foder and its contents into your GameDataa folder
+2. Copy the AriadenOT folder and its contents into your GameDataa folder
 3. Copy the AriadneOT_Exras foder into your GameData folder if you want real names for parts
